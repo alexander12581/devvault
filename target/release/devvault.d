@@ -1,0 +1,1 @@
+D:\devvault\target\release\devvault.exe: D:\devvault\hooks\pre-commit.bat D:\devvault\hooks\pre-commit.sh D:\devvault\src\cli.rs D:\devvault\src\config.rs D:\devvault\src\crypto.rs D:\devvault\src\error.rs D:\devvault\src\export.rs D:\devvault\src\hooks.rs D:\devvault\src\lib.rs D:\devvault\src\main.rs D:\devvault\src\scanner.rs D:\devvault\src\vault.rs

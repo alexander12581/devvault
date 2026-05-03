@@ -1,0 +1,14 @@
+D:\devvault\target\debug\deps\assert_cmd-db5203188d9ef2e5.d: C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\lib.rs C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\macros.rs C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\assert.rs C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\cargo.rs C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\cmd.rs C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\output.rs C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\color.rs D:\devvault\target\debug\build\assert_cmd-a49ca4c3731b6b72\out/current_target.txt
+
+D:\devvault\target\debug\deps\libassert_cmd-db5203188d9ef2e5.rmeta: C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\lib.rs C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\macros.rs C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\assert.rs C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\cargo.rs C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\cmd.rs C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\output.rs C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\color.rs D:\devvault\target\debug\build\assert_cmd-a49ca4c3731b6b72\out/current_target.txt
+
+C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\lib.rs:
+C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\macros.rs:
+C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\assert.rs:
+C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\cargo.rs:
+C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\cmd.rs:
+C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\output.rs:
+C:\Users\Alex\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-2.2.1\src\color.rs:
+D:\devvault\target\debug\build\assert_cmd-a49ca4c3731b6b72\out/current_target.txt:
+
+# env-dep:OUT_DIR=D:\\devvault\\target\\debug\\build\\assert_cmd-a49ca4c3731b6b72\\out
